@@ -1,0 +1,24 @@
+/* Basic styling */
+body {
+    margin: 0;
+    padding: 10;
+ }
+ 
+ /* Map container styling */
+ #map {
+    width: 80%;
+    height: 500px;
+    border: 2px solid #ddd;
+ }
+ 
+ /* Marker information styling */
+ #marker-info-container {
+    width: 80%;
+    text-align: left;
+ }
+ 
+ .marker-info {
+    margin-top: 10px;
+    font-weight: bold;
+ }
+ 
